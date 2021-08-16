@@ -75,3 +75,12 @@ csv_file.insert_data(*[
     }
 ])
 ```
+
+
+Apresentação do retorno dentro do arquivo **csv**
+
+```csv
+id,name,age,phone
+769331be-927a-4580-bdcb-2f72ddb80c86,Herlander de Castro Bento,20,987345232
+
+```
